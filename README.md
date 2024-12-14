@@ -35,3 +35,6 @@ I hope this code help anyone wanting to understand how to render Quake 2 assets 
 Jacques Krige
 -------------
 https://github.com/jacqueskrige/IdTech2MonoGame
+
+https://www.jacqueskrige.site
+https://www.corax.software
