@@ -33,5 +33,4 @@ Most of the work went into re-writing the HLS code to port it from Shader Model 
 I hope this code help anyone wanting to understand how to render Quake 2 assets using C# and MonoGame.
 
 Jacques Krige
-
 https://github.com/jacqueskrige/IdTech2MonoGame
