@@ -1,9 +1,9 @@
-# Quake 2 BSP Rendering using MonoGame (Microsoft XNA)
+# IdTech 2 BSP Rendering using MonoGame (Microsoft XNA)
 
 Very special thanks to Shaun Nirenstein (Crowley9) at NVIDIA for helping out with various aspects and considerations regarding rendering performance and HLSL programming.
 
 
-# Quake 2 BSP Renderer
+# IdTech 2 BSP Renderer
 
 It's been quite some time since I last spent time on my idTech2 XNA Renderer, but I finally managed to upgrade the project to Microsoft XNA 4.0 as well as adding new features and bug fixes. For the longest time I wanted to add MD2 model rendering support, but never got around actually doing the code for it. While on vacation I thought it will be cool to quickly convert the technology from Microsoft .NET 3.5 and Microsoft XNA 3.1 to .NET 4.0 and XNA 4.0, but great was my disappointment when I realized that it won't be a quicky and that there were significant breaking changes introduced in XNA. At least these were all good breaking changes, but none the less it still meant I need to go through the technology with a fine tooth comb and fix the now broken bits of code.
 
